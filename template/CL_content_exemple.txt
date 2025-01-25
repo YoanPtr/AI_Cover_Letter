@@ -1,0 +1,23 @@
+
+## **Dear Hiring Manager,**
+
+I am writing to apply for [POSITION_NAME] at [COMPANY_NAME]. As a master's student at Centrale Lyon Engineering School, specializing in Data Science, I see this opportunity as a chance to contribute my skills effectively to your team.
+
+I am currently completing the final year of my engineering master’s degree, with a focus on data science and statistics, which has provided me with a strong foundation in **Mathematics, Statistics, and Machine Learning/AI**.
+
+Throughout my academic journey, I have developed advanced proficiency in **Python**, statistics, and probability. My training at École Centrale de Lyon has equipped me with a solid foundation in technical disciplines, further reinforced by two six-month internships during my gap year:
+
+1. **Cloud-Based Energy Monitoring Platform**:  
+   During my first internship, I developed a cloud-based platform to monitor energy consumption in commercial buildings. This allowed me to hone my skills in **data manipulation, visualization**, and **project management**.
+
+2. **Financial Data Pipelines in Zürich**:  
+   My second internship involved working with Python/SQL pipelines for an independent financial data provider. I was responsible for maintaining and optimizing the daily data collection process, gaining a solid understanding of **financial markets** and improving my efficiency with Python packages such as **pandas**, **polars**, **SQLAlchemy**, and **Flask**. Additionally, I gained experience working with **production** and **development environments** using **Git** for version control.
+
+These experiences have significantly enhanced my **problem-solving skills** and ability to work on real-world projects.
+
+I participated in a challenge organized by **ADEME**, where I am developing an **LLM (Large Language Model)** to assist users in finding resources related to climate change. This initiative allows me to further advance my skills in **Machine Learning, LLM development**, and complex problem-solving. We finished ex-aequo with the first group. 
+
+Thank you in advance for considering my application. I look forward to discussing my candidacy in more detail.
+
+**Best regards,**  
+**Yoan Pontier**

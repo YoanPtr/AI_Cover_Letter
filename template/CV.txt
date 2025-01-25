@@ -1,0 +1,47 @@
+
+1
+PONTIER YOAN
+EDUCATION
+Centrale Lyon School of engineering, Lyon September 2021 - Present
+Generalistic Engineer Master Degrees with Data Science speciality
+Courses : Mathematics, IT
+Specialisation courses : Collaborative algorithms / Graphical interface C++, Data analysis and pattern recognition
+Speciality courses : Big Data, Deep learning, Statistics, Optimisation, CyberSecurity
+Lyc ́ee Malherbe 2018 - 2021
+Completed an Undergraduate Intensive Course in Mathematics and Physics, Preparation for Nationwide Competitive
+Examinations
+TECHNICAL SKILLS
+Programming Language : Python, JavaScript, SQL,
+C++, Google App Script
+Data Science and ML development : Pandas,
+Numpy, Sklearn, Plotly, Matplotlib, Polars, SqlAlchemy
+Front-end Development : React, HTML, CSS, Flask
+Software : MS Office, LaTeX
+Languages : French (Native), English (Full professional
+proficiency)
+TOEFL ITP score: 597/677
+Cloud : GCP (Big Query, App Engine, Cloud Run),
+Google Workspace
+PROFESSIONAL EXPERIENCES
+Alter Watt, Paris May 2023 - October 2023
+Smart Building Engineer Intern
+•Research and Development of an IoT-based offer and tools for clients to monitor energy consumption
+•Energy Consulting for Commercial Buildings
+•Project Management Assistance for Building Automation and Control Systems (BACS)
+•Development of an Online Platform for Tertiary Organizations to track consumption via supplier APIs
+Finance Doc Multimanagement AG , Z ̈urich January 2024 - July 2024
+Data Engineer Intern
+•Maintenance and improvement of an ETL process for extracting financial data from emails and/or web scraping
+via a Flask application and a SQL relational database. (approximately 10M rows per month)
+•Creation of a data control and validation process to improve data quality.
+•Implementation of a database of information related to ISINs, which is updated daily through interactions with
+about twenty financial institutions.
+RELEVANT PROJECTS
+Developed a web application for a tertiary organization focused on consumption tracking, which in-
+volved front-end development using React.js, user and organization management, data visualization, and the creation
+of APIs to access data from energy suppliers. Additionally, contributed to the development of cloud-based data stor-
+age using Google Cloud Platform (GCP).
+ADEME Data/AI Challenge : Development of a model to automatically diagnose the relevance and eligibility
+of aid or service requests for ADEME. The project includes analyzing application files and specifications using a
+language model (LLM), followed by binary classification or ranking to assess the relevance of the requests. (Currently
+in development

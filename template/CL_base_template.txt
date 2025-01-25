@@ -1,0 +1,17 @@
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <div style="width: 70%; text-align: left;">
+    <h1 style="text-decoration: none;"><strong>Yoan PONTIER</strong></h1>
+    <p><em>End of study Internship starting in April 2025</em></p>
+  </div>
+  <div style="width: 30%; text-align: right;">
+    <p><strong>yoan.pontier@etu.ec-lyon.fr</strong></p>
+    <p><strong>+33 7 86 94 08 44</strong></p>
+    <p><strong>Lyon, France</strong></p>
+    <p><strong>LinkedIn</strong></p>
+  </div>
+</div>
+
+
+---
+
+[CONTENT]

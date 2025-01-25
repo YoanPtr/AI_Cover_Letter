@@ -1,0 +1,5 @@
+.env
+__pycache__/create_pdf.cpython-312.pyc
+__pycache__/generate_cover_letter.cpython-312.pyc
+__pycache__/get_jobs_information.cpython-312.pyc
+__pycache__/models.cpython-312.pyc
